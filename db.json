@@ -1,0 +1,65 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "sourabh",
+        "password": "sourabh12",
+        "email": "sourabh@gmail.com",
+        "check": true
+      },
+      {
+        "name": "sunny",
+        "email": "sunny@gmail.com",
+        "password": "sunny12",
+        "check": false,
+        "id": 2
+      },
+      {
+        "name": "f",
+        "email": "f",
+        "password": "f",
+        "check": true,
+        "id": 3
+      },
+      {
+        "name": "e",
+        "email": "e",
+        "password": "e",
+        "check": false,
+        "id": 4
+      }
+    ],
+    "appointments": [
+      {
+        "name": "Jane Doe",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Dermatologist",
+        "experience": 10,
+        "location": "Los Angeles",
+        "date": "2023-04-05T12:00:00.000Z",
+        "slots": 2,
+        "fee": 150
+      },
+      {
+        "name": "Mark Johnson",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": "1",
+        "name": "sourabh rajput",
+        "image": "fadfasfaf",
+        "experience": null,
+        "location": "sfs",
+        "date": "2023-05-09",
+        "slots": 3,
+        "fee": "2",
+        "Specialization": "Psychiatrist"
+      }
+    ]
+  }
